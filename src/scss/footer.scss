@@ -1,0 +1,18 @@
+.footer {
+	padding: 20px 0 19px 0;
+	background: #162831;
+}
+.footer__container {
+	display: flex;
+	justify-content: space-between;
+}
+.footer__date {
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 135%;
+}
+.footer__author {
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 135%;
+}
